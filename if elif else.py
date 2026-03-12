@@ -48,6 +48,7 @@ elif type (a) is float:
 else:
     print("Yes")'''
 
+#if-elif-else by using membership
 '''a=2,4,3,5,6,7,8,9
 if 6 in a:
     print("yes")
@@ -55,3 +56,4 @@ elif 5 not in a:
     print("true")
 else:
     print("correct")'''
+
