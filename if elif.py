@@ -27,5 +27,6 @@ if a>b and b<a:
     print("true")
 elif a<b or b>a:
     print("false")
-elif a<b not b>a:
+elif a<b and not b>a:
     print("yes")
+
